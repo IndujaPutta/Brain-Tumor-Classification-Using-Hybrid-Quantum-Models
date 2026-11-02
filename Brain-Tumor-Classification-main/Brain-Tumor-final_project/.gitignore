@@ -1,0 +1,44 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Environments
+venv/
+env/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Models and weights
+*.pth
+*.pt
+*.h5
+*.ckpt
+*.npz
+model_artifacts*
+cnn_model.pth
+cnn_qcnn.pth
+cnn_qnn.pth
+
+# Numpy arrays and large binaries
+*.npy
+*.npz
+
+# Dataset directories
+dataset/
+*/dataset/
+data/
+*/data/
+
+# Logs and checkpoints
+logs/
+checkpoints/
+
+# Misc
+*.log

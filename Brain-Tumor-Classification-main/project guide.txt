@@ -1,0 +1,5 @@
+open terminal
+enter command --- cd Brain-Tumor-final_project
+activate virtual environment---- .venv\Scripts\activate
+to calculate precision and accuracy --- python run_all_evaluations.py
+to run fnal web interface ---- python unified_deploy.py
